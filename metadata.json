@@ -1,0 +1,6 @@
+{
+  "name": "T Hotel Johor Bahru",
+  "description": "Official website for T Hotel Johor Bahru, Skudai Malaysia. Modern, comfortable accommodation with premier amenities and warm hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
